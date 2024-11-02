@@ -8,10 +8,12 @@ This responsive portfolio website features a clean, modern design with smooth an
 
 <h2>🚀 Features</h2>
 
-Responsive Design: Optimized for all screen sizes.
-Interactive UI: Intuitive and visually engaging.
-Dynamic Content: Easily update project listings and information.
-Smooth Animations: Enhance user experience with fluid transitions.
+ <ul>
+        <li><strong>Responsive Design:</strong> Optimized for all screen sizes.</li>
+        <li><strong>Interactive UI:</strong> Intuitive and visually engaging.</li>
+        <li><strong>Dynamic Content:</strong> Easily update project listings and information.</li>
+        <li><strong>Smooth Animations:</strong> Enhance user experience with fluid transitions.</li>
+    </ul>
 
 <h2>🛠️ Installation</h2>
     <ol>
