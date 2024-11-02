@@ -1,16 +1,32 @@
-# krish_portfolio
+A personal portfolio website built using Flutter Web to highlight projects, skills, and experiences.
 
-A new Flutter project.
 
-## Getting Started
+    <h1>Krish Portfolio</h1>
+    <p>A personal portfolio website built using Flutter Web to highlight projects, skills, and experiences.</p>
 
-This project is a starting point for a Flutter application.
+    <h2>Overview</h2>
+    <p>This responsive portfolio website features a clean, modern design with smooth animations and easy navigation, aimed at providing an engaging user experience. It includes sections for project details, an "About Me" overview, contact information, and links to social media profiles.</p>
 
-A few resources to get you started if this is your first Flutter project:
+    <h2>🚀 Features</h2>
+    <ul>
+        <li><strong>Responsive Design:</strong> Optimized for all screen sizes.</li>
+        <li><strong>Interactive UI:</strong> Intuitive and visually engaging.</li>
+        <li><strong>Dynamic Content:</strong> Easily update project listings and information.</li>
+        <li><strong>Smooth Animations:</strong> Enhance user experience with fluid transitions.</li>
+    </ul>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+    <h2>🛠️ Installation</h2>
+    <ol>
+        <li>Clone the repo:</li>
+        <div class="code">git clone https://github.com/GiridharanS1729/flutter-portfolio.git</div>
+        
+        <li>Navigate to the project directory:</li>
+        <div class="code">cd flutter-portfolio</div>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+        <li>Install dependencies:</li>
+        <div class="code">flutter pub get</div>
+
+        <li>Run the app:</li>
+        <div class="code">flutter run</div>
+    </ol>
+    <p>Your portfolio website should now be running on your device or emulator! 🎉</p>
