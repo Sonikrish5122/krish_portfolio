@@ -4,7 +4,7 @@ A personal portfolio website built using Flutter Web to highlight projects, skil
 Overview
 This responsive portfolio website features a clean, modern design with smooth animations and easy navigation, aimed at providing an engaging user experience. It includes sections for project details, an "About Me" overview, contact information, and links to social media profiles.
 
-🚀 Features
+<h2>🚀 Features</h2>
 Responsive Design: Optimized for all screen sizes.
 Interactive UI: Intuitive and visually engaging.
 Dynamic Content: Easily update project listings and information.
