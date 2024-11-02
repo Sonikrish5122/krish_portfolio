@@ -33,13 +33,11 @@ This responsive portfolio website features a clean, modern design with smooth an
 
 <p>Your portfolio website should now be running on your device or emulator! 🎉</p>
 
-![image1](https://github.com/user-attachments/assets/ef9e34a3-557d-4a23-acc8-2409f0147243)
-![image2](https://github.com/user-attachments/assets/600d3436-8ee9-41d1-bcc5-24af57ba64fa)
-![image3](https://github.com/user-attachments/assets/4efde7cc-a17d-478b-8eeb-ebea594bcbdb)
-![image4](https://github.com/user-attachments/assets/22afc34e-7bed-4a04-994d-b62c5ec8b8a5)
-![image5](https://github.com/user-attachments/assets/58f7407d-8e04-4eca-a6ee-097773f9f74e)
-![image6](https://github.com/user-attachments/assets/3af4ca64-0c0e-4ff0-b23b-44c255dd2bb9)
-![image7](https://github.com/user-attachments/assets/8e0d6073-17bb-4f4f-adf4-c889e9062343)
+<h2>🎬 Captured Moment</h2>
+
+
+
+https://github.com/user-attachments/assets/dcf4b261-330d-4998-95c9-0c0c34d430b9
 
 
 
