@@ -21,7 +21,8 @@ This responsive portfolio website features a clean, modern design with smooth an
         <div class="code">git clone https://github.com/Sonikrish5122/krish_portfolio.git</div>
         
 <li>Navigate to the project directory:</li>
-<div class="code">cd flutter-portfolio</div>
+
+<div class="code">cd krish_portfolio</div>
 <li>Install dependencies:</li>
 <div class="code">flutter pub get</div>
 
